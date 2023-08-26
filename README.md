@@ -11,4 +11,6 @@ This project is using NLP(Natural Language Processing) model. There are several 
 The models are evaluated using variety of metrics to determine their effectiveness in classifying toxic comments. 
 ## Deployment
 To deploy the toxic comment classification model, we utilize an interface where users can input text and recieve predictions on the toxicity level of their comments. We use Gradio to create that interface. Gradio app enables to share this project with others.
+## Output
+
 
